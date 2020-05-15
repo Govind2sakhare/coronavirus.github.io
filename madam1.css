@@ -1,0 +1,45 @@
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+}
+img{
+	width:450px;
+	height:200;
+}
+h1 {
+  text-align: center;
+  font-family: fantasy;
+  text-decoration-color: blue;
+  border-style: solid;
+
+}
+
+button{
+  align-items: center;
+  font-family: monospace;
+  border-image-source:initial; 
+  
+}
+.btn-xl{
+  padding: 1rem 2rem;
+  font-weight: 700;
+  border-radius: 200px;
+  background-color: #bc1525;
+
+}
+
+body
+{
+  background-image: url("https://cdn.pixabay.com/photo/2020/03/16/16/29/virus-4937553_1280.jpg");
+
+}
+
+
+h1{
+  text-decoration-color: red;
+}
+.a{
+  text-align: red;
+
+
+}
